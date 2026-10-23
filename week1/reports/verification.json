@@ -1,0 +1,11 @@
+{
+  "saved_files_match_training_input": true,
+  "unique_sku_and_disjoint_splits": true,
+  "price_and_age_transformations": true,
+  "unavailable_fields_not_fabricated": true,
+  "metrics_independently_recomputed": true,
+  "interval_coverage_recomputed": true,
+  "saved_shap_additivity": true,
+  "rows": 119662,
+  "test_rows": 17950
+}

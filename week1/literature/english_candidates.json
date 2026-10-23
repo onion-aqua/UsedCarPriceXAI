@@ -1,0 +1,139 @@
+{
+  "verified_on": "2026-10-23",
+  "window": "2024-01-01 至 2026-10-23，按正式卷期年份；early-access 日期单独说明",
+  "count": 11,
+  "journal_indexing_status": "未逐刊核验学校认可的核心目录、SCIE/SSCI收录年度或JCR分区，不据此宣称核心篇数",
+  "evidence_file": "english_metadata_verified.json",
+  "records": [
+    {
+      "id": "EN01", "title": "A Latent Factor-Based Bayesian Neural Networks Model in Cloud Platform for Used Car Price Prediction",
+      "authors": ["Junjun Huang", "Shier Nee Saw", "Wei Feng", "Yujie Jiang", "Ruohan Yang", "Yesheng Qin", "Lee Soon Seng"],
+      "year": 2024, "journal": "IEEE Transactions on Engineering Management", "volume": "71", "pages": "12487-12497",
+      "doi": "10.1109/TEM.2023.3270301", "url": "https://doi.org/10.1109/TEM.2023.3270301",
+      "topic": "二手车价格预测与不确定性", "reading_depth": "题录与摘要，未读全文",
+      "date_note": "Crossref正式卷期为2024；OpenAlex首次发表日期为2023-05-31。若导师按首次在线发表划窗，本条转补充，不计近三年主清单。",
+      "method": "潜因子提取与贝叶斯神经网络，云平台部署；两个二手车数据集评估。",
+      "paraphrase": "二手车价格建模不仅受到数据噪声影响，还需要表达预测不确定性；该研究通过潜因子与贝叶斯神经网络处理这些问题。",
+      "thesis_use": "国外研究现状、预测区间研究动机", "priority": "高",
+      "limitation": "模型复杂度高，本周不复现；不同数据和价格量纲下不能直接比较MAE。"
+    },
+    {
+      "id": "EN02", "title": "Battery-powered bargains? Assessing electric vehicle resale value in the United States",
+      "authors": ["Laura Roberson", "Saurav Pantha", "John Paul Helveston"],
+      "year": 2024, "journal": "Environmental Research Letters", "volume": "19", "issue": "5", "pages": "054053",
+      "doi": "10.1088/1748-9326/ad3fce", "url": "https://doi.org/10.1088/1748-9326/ad3fce",
+      "topic": "挂牌价格、保值率与动力类型", "reading_depth": "题录与摘要，未读全文",
+      "method": "2016—2022年美国约900万辆网络挂牌车源，按品牌车型估计不同动力车辆保值率。",
+      "paraphrase": "基于美国大规模挂牌数据的研究表明，动力类型、车型年份、续航和外部市场变化与车辆保值表现相关。",
+      "thesis_use": "研究背景、燃料类型特征、时间漂移局限", "priority": "高",
+      "limitation": "美国市场结论不能直接量化迁移至中国；挂牌价不是成交价。文献新不等于其数据新。"
+    },
+    {
+      "id": "EN03", "title": "A Perspective on Explainable Artificial Intelligence Methods: SHAP and LIME",
+      "authors": ["Ahmed M. Salih", "Zahra Raisi-Estabragh", "Ilaria Boscolo Galazzo", "Petia Radeva", "Steffen E. Petersen", "Karim Lekadir", "Gloria Menegaz"],
+      "year": 2025, "journal": "Advanced Intelligent Systems", "volume": "7", "issue": "1", "pages": "2400304",
+      "doi": "10.1002/aisy.202400304", "url": "https://doi.org/10.1002/aisy.202400304",
+      "topic": "SHAP与LIME解释局限", "reading_depth": "题录与摘要，未读全文",
+      "date_note": "2024-06-27在线发表，2025年7(1)正式卷期。",
+      "method": "结合心肌梗死分类案例，比较模型选择及特征共线性对SHAP/LIME解释的影响。",
+      "paraphrase": "SHAP和LIME的解释结果会受到所采用模型及特征共线性的影响，因此解释图需要结合模型与特征关系审慎解读。",
+      "thesis_use": "SHAP方法、解释可靠性、研究局限", "priority": "高",
+      "limitation": "解释模型输出的关联贡献，不能据此断言真实市场因果机制。"
+    },
+    {
+      "id": "EN04", "title": "Developing guidelines for functionally-grounded evaluation of explainable artificial intelligence using tabular data",
+      "authors": ["Mythreyi Velmurugan", "Chun Ouyang", "Yue Xu", "Renuka Sindhgatta", "Bemali Wickramanayake", "Catarina Moreira"],
+      "year": 2025, "journal": "Engineering Applications of Artificial Intelligence", "volume": "141", "pages": "109772",
+      "doi": "10.1016/j.engappai.2024.109772", "url": "https://doi.org/10.1016/j.engappai.2024.109772",
+      "open_version": "https://arxiv.org/abs/2410.12803",
+      "topic": "表格数据解释评价", "reading_depth": "题录与摘要，未读全文",
+      "method": "梳理局部事后解释的功能性评价文献，归纳20项评价准则及相应评价方法。",
+      "paraphrase": "表格数据上的解释方法需要单独评估其适用性，解释评价准则和评价方法本身可能影响最终结论。",
+      "thesis_use": "可解释性评价方案、解释稳定性检查", "priority": "高",
+      "limitation": "本周仅用于制定后续阅读和评价任务，不能声称已实现其全部20项准则。"
+    },
+    {
+      "id": "EN05", "title": "WSMOTER: a novel approach for imbalanced regression",
+      "authors": ["Luís Camacho", "Fernando Bacao"],
+      "year": 2024, "journal": "Applied Intelligence", "volume": "54", "issue": "19", "pages": "8789-8799",
+      "doi": "10.1007/s10489-024-05608-6", "url": "https://doi.org/10.1007/s10489-024-05608-6",
+      "abstract_source": "https://api.crossref.org/works/10.1007/s10489-024-05608-6",
+      "topic": "长尾/不平衡回归", "reading_depth": "Crossref题录与摘要已读，全文待获取",
+      "method": "提出Weighting SMOTE for Regression（WSMOTER）处理连续目标中的稀有事件预测问题。",
+      "paraphrase": "样本不平衡不仅存在于分类任务，也会影响连续目标回归；稀有目标区间可能具有更高业务关注度，需要单独评价预测效果。",
+      "thesis_use": "高价少数样本误差分析、长尾价格问题", "priority": "中",
+      "limitation": "仅据摘要不引用具体提升幅度；本周不引入合成过采样，它可能改变残差分布并影响异常阈值校准。"
+    },
+    {
+      "id": "EN06", "title": "Corruption-based anomaly detection and interpretation in tabular data",
+      "authors": ["Chunghyup Mok", "Seoung Bum Kim"],
+      "year": 2025, "journal": "Pattern Recognition", "volume": "159", "pages": "111149",
+      "doi": "10.1016/j.patcog.2024.111149", "url": "https://doi.org/10.1016/j.patcog.2024.111149",
+      "open_version": "https://doi.org/10.2139/ssrn.4921053",
+      "topic": "表格异常检测与解释", "reading_depth": "期刊题录与同题同作者SSRN预印本摘要已读，期刊全文未读",
+      "abstract_source": "https://api.crossref.org/works/10.2139/ssrn.4921053",
+      "method": "选择性扰动变量并按扰动程度构造标签，学习正常与异常数据的区分；分析扰动对异常分数的影响以识别重要变量。",
+      "paraphrase": "表格数据缺乏图像或文本那样的结构先验，可通过变量扰动构造自监督异常学习任务，并分析扰动对异常分数的影响来辅助解释。",
+      "thesis_use": "异常检测相关工作、合成异常实验的用途与边界", "priority": "中",
+      "limitation": "不能将文中corruption方法直接等同于本项目价格乘倍率的合成异常实验。"
+    },
+    {
+      "id": "EN07", "title": "Data leakage detection in machine learning code: transfer learning, active learning, or low-shot prompting?",
+      "authors": ["Nouf Alturayeif", "Jameleddine Hassine"],
+      "year": 2025, "journal": "PeerJ Computer Science", "volume": "11", "pages": "e2730",
+      "doi": "10.7717/peerj-cs.2730", "url": "https://doi.org/10.7717/peerj-cs.2730",
+      "topic": "数据泄漏", "reading_depth": "题录与摘要，未读全文",
+      "method": "比较迁移学习、主动学习与少样本提示在代码级数据泄漏检测中的表现。",
+      "paraphrase": "测试集信息进入训练过程会造成性能指标虚高，数据泄漏既可能产生于数据集构造，也可能产生于机器学习代码。",
+      "thesis_use": "数据划分、预处理Pipeline、实验可信度", "priority": "高",
+      "limitation": "文中主动学习F2=0.72是代码泄漏检测结果，不能用作二手车异常识别的性能预期。"
+    },
+    {
+      "id": "EN08", "title": "Evaluating robustly standardized explainable anomaly detection of implausible variables in cancer data",
+      "authors": ["Philipp Röchner", "Franz Rothlauf"],
+      "year": 2025, "journal": "Journal of the American Medical Informatics Association", "volume": "32", "issue": "4", "pages": "724-735",
+      "doi": "10.1093/jamia/ocaf011", "url": "https://doi.org/10.1093/jamia/ocaf011",
+      "open_version": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12005620/",
+      "topic": "异常解释的人工验证与评价", "reading_depth": "摘要及全文定向阅读：Introduction、Methods、Explanation score evaluation、Limitations；未逐表完整精读",
+      "method": "18587条癌症登记记录中选择800条高异常分数记录，由医学编码人员核验变量；比较稳健标准化解释分数与基线，采用分类及排序评价。",
+      "paraphrase": "异常解释应通过独立人工核验加以评价，而不仅展示少数案例；该研究同时在分类和排序层面比较解释质量，并披露单人审核无法计算标注者间一致性的限制。",
+      "thesis_use": "人工审核设计、异常解释评价、局限性", "priority": "高",
+      "limitation": "医学数据、变量级标签及自编码器方法不同于本项目；高分样本上的评价不能代表全体车辆异常召回率。"
+    },
+    {
+      "id": "EN09", "title": "Group-weighted conformal prediction",
+      "authors": ["Aabesh Bhattacharyya", "Rina Foygel Barber"],
+      "year": 2026, "journal": "Electronic Journal of Statistics", "volume": "20", "issue": "1", "pages": "1171-1199",
+      "doi": "10.1214/26-EJS2506", "url": "https://doi.org/10.1214/26-EJS2506",
+      "topic": "群体变化与保形区间覆盖", "reading_depth": "题录与摘要，未读全文",
+      "method": "研究有限群体决定协变量漂移时的加权保形预测，分析估计权重误差与覆盖保证。",
+      "paraphrase": "加权保形预测处理协变量分布变化时，所估计的训练与测试分布权重会影响覆盖保证；群体结构可为改进保证提供条件。",
+      "thesis_use": "城市分布变化、区间覆盖率分组评估、后续研究", "priority": "中",
+      "limitation": "不将普通split conformal的总体边际覆盖说成每个城市每辆车都有相同条件覆盖率；本周不实现复杂加权算法。"
+    },
+    {
+      "id": "EN10", "title": "A Tutorial on Distribution-Free Uncertainty Quantification Using Conformal Prediction",
+      "authors": ["Tim Kaiser", "Philipp Herzog"],
+      "year": 2025, "journal": "Advances in Methods and Practices in Psychological Science", "volume": "8", "issue": "4", "pages": "25152459251380452",
+      "doi": "10.1177/25152459251380452", "url": "https://doi.org/10.1177/25152459251380452",
+      "topic": "保形预测入门", "reading_depth": "题录与摘要，未读全文",
+      "method": "以三个复杂度递增的公开数据与R代码实例介绍模型无关的保形预测区间。",
+      "paraphrase": "仅报告点预测而不表达不确定性容易高估预测精度；保形预测为不同模型构造具有边际覆盖保证的预测区间提供了框架。",
+      "thesis_use": "预测区间原理、方法选择", "priority": "高",
+      "limitation": "边际覆盖保证需要相应数据假设；区间越界不等于已证实商业欺诈。"
+    },
+    {
+      "id": "EN11", "title": "Conformal Loss-Controlling Prediction",
+      "authors": ["Di Wang", "Ping Wang", "Zhong Ji", "Xiaojun Yang", "Hongyue Li"],
+      "year": 2025, "journal": "IEEE Transactions on Neural Networks and Learning Systems", "volume": "36", "issue": "2", "pages": "2973-2983",
+      "doi": "10.1109/TNNLS.2024.3356512", "url": "https://doi.org/10.1109/TNNLS.2024.3356512",
+      "open_version": "https://arxiv.org/abs/2301.02424",
+      "topic": "业务损失与保形预测扩展", "reading_depth": "题录与摘要，未读全文",
+      "date_note": "期刊在线2024、正式卷期2025；arXiv版本2023，主条目引用期刊版本。",
+      "method": "把保形预测的误覆盖损失扩展为一般损失控制，在数据可交换假设下给出有限样本保证，并验证分类与天气预报任务。",
+      "paraphrase": "预测集合的评价可从覆盖率进一步延伸至任务损失，但相关理论保证依赖明确的数据假设和损失定义。",
+      "thesis_use": "漏报/误报成本讨论、未来研究", "priority": "中",
+      "limitation": "本周只借鉴损失定义思想，不能宣称现有残差阈值已满足论文中的理论保证。"
+    }
+  ]
+}

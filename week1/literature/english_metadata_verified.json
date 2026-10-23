@@ -1,0 +1,1661 @@
+[
+  {
+    "id": "EN01",
+    "title": "A Latent Factor-Based Bayesian Neural Networks Model in Cloud Platform for Used Car Price Prediction",
+    "authors": [
+      "Junjun Huang",
+      "Shier Nee Saw",
+      "Wei Feng",
+      "Yujie Jiang",
+      "Ruohan Yang",
+      "Yesheng Qin",
+      "Lee Soon Seng"
+    ],
+    "journal": "IEEE Transactions on Engineering Management",
+    "doi": "10.1109/tem.2023.3270301",
+    "url": "https://doi.org/10.1109/tem.2023.3270301",
+    "published": [
+      [
+        2024
+      ]
+    ],
+    "published_print": [
+      [
+        2024
+      ]
+    ],
+    "published_online": null,
+    "openalex_publication_date": "2023-05-31",
+    "volume": "71",
+    "issue": null,
+    "pages": "12487-12497",
+    "article_number": null,
+    "abstract": "The selling price of a used car can be predicted based on its historical information. Accurate and reasonable used car price evaluation will be able to promote the healthy progress of the used car industry. Current used car price prediction models are troubled by data quality and the inability to provide estimates of uncertain information, and the prediction accuracy cannot meet the needs of real-world scenarios. In this work, we propose a price prediction model based on a Bayesian neural networks with latent factor (LFBNN) in a cloud platform, which is capable of performing latent factor extraction operations on structured data of used cars as a way to remove the effect of noise in the dataset on the model performance. Moreover, the weight parameters of the Bayesian neural networks (NNs) are represented as probability distributions, which is equivalent to introducing uncertainty and acting as a regularization effect compared to a NN with fixed weights, thus making it possible to alleviate the overfitting problem. The LFBNN model uses a cloud platform for data transmission and storage, enabling it to run faster. Compared with the current benchmark models, the model proposed in this work achieves excellent experimental results on two real datasets. The experimental results on the$Car_{1}$dataset are 1.498 for mse, 1.224 for rmse, and 0.995 for MAE, and 1.519 for mse, 1.232 for rmse, and 1.002 for MAE on the$Car_{2}$dataset.",
+    "abstract_source": "https://api.openalex.org/works/https://doi.org/10.1109/TEM.2023.3270301",
+    "metadata_sources": [
+      "https://api.crossref.org/works/10.1109/TEM.2023.3270301",
+      "https://api.openalex.org/works/https://doi.org/10.1109/TEM.2023.3270301"
+    ],
+    "open_access_url": null,
+    "locations": [
+      {
+        "id": "doi:10.1109/tem.2023.3270301",
+        "doi": "https://doi.org/10.1109/tem.2023.3270301",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/tem.2023.3270301",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S154533451",
+          "display_name": "IEEE Transactions on Engineering Management",
+          "issn_l": "0018-9391",
+          "issn": [
+            "0018-9391",
+            "1558-0040"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "abdc-a",
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "fnege-2",
+            "jufo-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Transactions on Engineering Management",
+        "raw_type": "journal-article"
+      }
+    ],
+    "verified_on": "2026-10-23"
+  },
+  {
+    "id": "EN02",
+    "title": "Battery-powered bargains? Assessing electric vehicle resale value in the United States",
+    "authors": [
+      "Laura Roberson",
+      "Saurav Pantha",
+      "John Paul Helveston"
+    ],
+    "journal": "Environmental Research Letters",
+    "doi": "10.1088/1748-9326/ad3fce",
+    "url": "https://doi.org/10.1088/1748-9326/ad3fce",
+    "published": [
+      [
+        2024,
+        5,
+        1
+      ]
+    ],
+    "published_print": [
+      [
+        2024,
+        5,
+        1
+      ]
+    ],
+    "published_online": [
+      [
+        2024,
+        5,
+        10
+      ]
+    ],
+    "openalex_publication_date": "2024-04-17",
+    "volume": "19",
+    "issue": "5",
+    "pages": "054053",
+    "article_number": null,
+    "abstract": "Abstract\n               The resale market will play a critical role in expanding plug-in electric vehicle (PEV) adoption to middle- and lower-income households. Understanding PEV depreciation trends in comparison to those of conventional gasoline vehicles (CVs) is critical for assessing PEV affordability and informing relevant policy, such as subsidies for used PEVs. We deliver comprehensive, high-resolution estimates of value retention rates at the make-model level in the United States for battery electric vehicles (BEVs), plug-in hybrid electric vehicles (PHEVs), hybrid electric vehicles (HEVs), and CVs using a database of 9 million used cars listed online between 2016 and 2022. While BEVs and PHEVs have depreciated at faster rates than CVs, this trend is changing, with newer model year BEVs and those with larger ranges have significantly higher retention rates than older model years with smaller ranges. Tesla BEVs are a notable exception following the opposite trend, with earlier model years holding their value better than newer model years. Subsidized BEVs in the new market are associated with lower prices for the same model in the resale market, with the $7500 federal subsidy translating to a 3% lower resale price on average. Finally, disruptions from the COVID-19 pandemic have affected affordability across all vehicles, with mean listing prices rising 37% and 39% for CVs and BEVs, respectively, from January 2020 to March 2022 in inflation-adjusted 2019 dollars.",
+    "abstract_source": "https://api.crossref.org/works/10.1088/1748-9326/ad3fce",
+    "metadata_sources": [
+      "https://api.crossref.org/works/10.1088/1748-9326/ad3fce",
+      "https://api.openalex.org/works/https://doi.org/10.1088/1748-9326/ad3fce"
+    ],
+    "open_access_url": "https://doi.org/10.1088/1748-9326/ad3fce",
+    "locations": [
+      {
+        "id": "doi:10.1088/1748-9326/ad3fce",
+        "doi": "https://doi.org/10.1088/1748-9326/ad3fce",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1088/1748-9326/ad3fce",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S139338987",
+          "display_name": "Environmental Research Letters",
+          "issn_l": "1748-9326",
+          "issn": [
+            "1748-9326"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-b",
+            "jufo-3",
+            "ki-jl-1",
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320083",
+          "host_organization_name": "IOP Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320083",
+            "https://openalex.org/P4310311669"
+          ],
+          "host_organization_lineage_names": [
+            "IOP Publishing",
+            "Institute of Physics"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Environmental Research Letters",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:64a8701290f14b49b60a9a5d664c498b",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/64a8701290f14b49b60a9a5d664c498b",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Environmental Research Letters, Vol 19, Iss 5, p 054053 (2024)",
+        "raw_type": "article"
+      },
+      {
+        "id": "pmh:oai:osti.gov:2338004",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://www.osti.gov/biblio/2338004",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402487",
+          "display_name": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I139351228",
+          "host_organization_name": "Office of Scientific and Technical Information",
+          "host_organization_lineage": [
+            "https://openalex.org/I139351228"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": null
+      },
+      {
+        "id": "pmh:oai:osti.gov:2349159",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://www.osti.gov/biblio/2349159",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402487",
+          "display_name": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I139351228",
+          "host_organization_name": "Office of Scientific and Technical Information",
+          "host_organization_lineage": [
+            "https://openalex.org/I139351228"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": null
+      }
+    ],
+    "verified_on": "2026-10-23"
+  },
+  {
+    "id": "EN03",
+    "title": "A Perspective on Explainable Artificial Intelligence Methods: SHAP and LIME",
+    "authors": [
+      "Ahmed M. Salih",
+      "Zahra Raisi‐Estabragh",
+      "Ilaria Boscolo Galazzo",
+      "Petia Radeva",
+      "Steffen E. Petersen",
+      "Karim Lekadir",
+      "Gloria Menegaz"
+    ],
+    "journal": "Advanced Intelligent Systems",
+    "doi": "10.1002/aisy.202400304",
+    "url": "https://doi.org/10.1002/aisy.202400304",
+    "published": [
+      [
+        2024,
+        6,
+        27
+      ]
+    ],
+    "published_print": [
+      [
+        2025,
+        1
+      ]
+    ],
+    "published_online": [
+      [
+        2024,
+        6,
+        27
+      ]
+    ],
+    "openalex_publication_date": "2024-06-27",
+    "volume": "7",
+    "issue": "1",
+    "pages": null,
+    "article_number": "2400304",
+    "abstract": "eXplainable artificial intelligence (XAI) methods have emerged to convert the black box of machine learning (ML) models into a more digestible form. These methods help to communicate how the model works with the aim of making ML models more transparent and increasing the trust of end‐users in their output. SHapley Additive exPlanations (SHAP) and Local Interpretable Model Agnostic Explanation (LIME) are two widely used XAI methods, particularly with tabular data. In this perspective piece, the way the explainability metrics of these two methods are generated is discussed and a framework for the interpretation of their outputs, highlighting their weaknesses and strengths is proposed. Specifically, their outcomes in terms of model‐dependency and in the presence of collinearity among the features, relying on a case study from the biomedical domain (classification of individuals with or without myocardial infarction) are discussed. The results indicate that SHAP and LIME are highly affected by the adopted ML model and feature collinearity, raising a note of caution on their usage and interpretation.",
+    "abstract_source": "https://api.crossref.org/works/10.1002/aisy.202400304",
+    "metadata_sources": [
+      "https://api.crossref.org/works/10.1002/aisy.202400304",
+      "https://api.openalex.org/works/https://doi.org/10.1002/aisy.202400304"
+    ],
+    "open_access_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202400304",
+    "locations": [
+      {
+        "id": "doi:10.1002/aisy.202400304",
+        "doi": "https://doi.org/10.1002/aisy.202400304",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1002/aisy.202400304",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aisy.202400304",
+        "source": {
+          "id": "https://openalex.org/S4210212817",
+          "display_name": "Advanced Intelligent Systems",
+          "issn_l": "2640-4567",
+          "issn": [
+            "2640-4567"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-b",
+            "jufo-1",
+            "norway-1",
+            "poland-20",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Advanced Intelligent Systems",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:arXiv.org:2305.02012",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/2305.02012",
+        "pdf_url": "https://arxiv.org/pdf/2305.02012",
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:49fbd7132cef4df89d0ba1809822117c",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/49fbd7132cef4df89d0ba1809822117c",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Advanced Intelligent Systems, Vol 7, Iss 1, Pp n/a-n/a (2025)",
+        "raw_type": "article"
+      },
+      {
+        "id": "pmh:oai:figshare.com:article/25982767",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://figshare.com/articles/journal_contribution/A_Perspective_on_Explainable_Artificial_Intelligence_Methods_SHAP_and_LIME/25982767",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4377196282",
+          "display_name": "Figshare",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I4210132348",
+          "host_organization_name": "Figshare (United Kingdom)",
+          "host_organization_lineage": [
+            "https://openalex.org/I4210132348"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "Text"
+      },
+      {
+        "id": "doi:10.48550/arxiv.2305.02012",
+        "doi": "https://doi.org/10.48550/arxiv.2305.02012",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.48550/arxiv.2305.02012",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": null,
+        "is_accepted": false,
+        "is_published": null,
+        "raw_source_name": null,
+        "raw_type": "article-journal"
+      }
+    ],
+    "verified_on": "2026-10-23"
+  },
+  {
+    "id": "EN04",
+    "title": "Developing guidelines for functionally-grounded evaluation of explainable artificial intelligence using tabular data",
+    "authors": [
+      "Mythreyi Velmurugan",
+      "Chun Ouyang",
+      "Yue Xu",
+      "Renuka Sindhgatta",
+      "Bemali Wickramanayake",
+      "Catarina Moreira"
+    ],
+    "journal": "Engineering Applications of Artificial Intelligence",
+    "doi": "10.1016/j.engappai.2024.109772",
+    "url": "https://doi.org/10.1016/j.engappai.2024.109772",
+    "published": [
+      [
+        2025,
+        2
+      ]
+    ],
+    "published_print": [
+      [
+        2025,
+        2
+      ]
+    ],
+    "published_online": null,
+    "openalex_publication_date": "2024-12-16",
+    "volume": "141",
+    "issue": null,
+    "pages": "109772",
+    "article_number": "109772",
+    "abstract": "Explainable Artificial Intelligence (XAI) techniques are used to provide transparency to complex, opaque predictive models. However, these techniques are often designed for image and text data, and it is unclear how fit-for-purpose they are when applied to tabular data. As XAI techniques are rarely evaluated in the context of tabular data, the applicability of existing evaluation criteria and methods are also unclear and needs re-examination. For example, some works suggest that evaluation methods may unduly influence the evaluation results when using tabular data. This lack of clarity on evaluation procedures can lead to reduced transparency and ineffective use of XAI techniques in real world settings. In this study, we examine literature on XAI evaluation to derive guidelines on functionally-grounded assessment of local, post hoc XAI techniques. We identify 20 evaluation criteria and associated evaluation methods, and derive guidelines on when and how each criterion should be evaluated. We also identify key research gaps to be addressed by future work. Our study contributes to the body of knowledge on XAI evaluation through in-depth examination of functionally-grounded XAI evaluation protocols, and has laid the groundwork for future research on XAI evaluation.",
+    "abstract_source": "https://api.openalex.org/works/https://doi.org/10.1016/j.engappai.2024.109772",
+    "metadata_sources": [
+      "https://api.crossref.org/works/10.1016/j.engappai.2024.109772",
+      "https://api.openalex.org/works/https://doi.org/10.1016/j.engappai.2024.109772"
+    ],
+    "open_access_url": "https://doi.org/10.1016/j.engappai.2024.109772",
+    "locations": [
+      {
+        "id": "doi:10.1016/j.engappai.2024.109772",
+        "doi": "https://doi.org/10.1016/j.engappai.2024.109772",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.engappai.2024.109772",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S900972176",
+          "display_name": "Engineering Applications of Artificial Intelligence",
+          "issn_l": "0952-1976",
+          "issn": [
+            "0952-1976",
+            "1873-6769"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "ccf-c",
+            "cwts-core",
+            "dongbi-d",
+            "jufo-2",
+            "ki-jl-1",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Engineering Applications of Artificial Intelligence",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:arXiv.org:2410.12803",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/2410.12803",
+        "pdf_url": "https://arxiv.org/pdf/2410.12803",
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      },
+      {
+        "id": "doi:10.48550/arxiv.2410.12803",
+        "doi": "https://doi.org/10.48550/arxiv.2410.12803",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.48550/arxiv.2410.12803",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": null,
+        "raw_source_name": null,
+        "raw_type": "Preprint"
+      }
+    ],
+    "verified_on": "2026-10-23"
+  },
+  {
+    "id": "EN05",
+    "title": "A novel gradient boosting approach for imbalanced regression",
+    "authors": [
+      "Wenchao Zhang",
+      "Peixin Shi",
+      "Pengjiao Jia",
+      "Xiaoqi Zhou"
+    ],
+    "journal": "Neurocomputing",
+    "doi": "10.1016/j.neucom.2024.128091",
+    "url": "https://doi.org/10.1016/j.neucom.2024.128091",
+    "published": [
+      [
+        2024,
+        10
+      ]
+    ],
+    "published_print": [
+      [
+        2024,
+        10
+      ]
+    ],
+    "published_online": null,
+    "openalex_publication_date": "2024-06-29",
+    "volume": "601",
+    "issue": null,
+    "pages": "128091",
+    "article_number": "128091",
+    "abstract": "",
+    "abstract_source": "https://api.crossref.org/works/10.1016/j.neucom.2024.128091",
+    "metadata_sources": [
+      "https://api.crossref.org/works/10.1016/j.neucom.2024.128091",
+      "https://api.openalex.org/works/https://doi.org/10.1016/j.neucom.2024.128091"
+    ],
+    "open_access_url": null,
+    "locations": [
+      {
+        "id": "doi:10.1016/j.neucom.2024.128091",
+        "doi": "https://doi.org/10.1016/j.neucom.2024.128091",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.neucom.2024.128091",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S45693802",
+          "display_name": "Neurocomputing",
+          "issn_l": "0925-2312",
+          "issn": [
+            "0925-2312",
+            "1872-8286"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "ccf-c",
+            "cwts-core",
+            "dongbi-b",
+            "doyens",
+            "jufo-2",
+            "ki-jl-2",
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Neurocomputing",
+        "raw_type": "journal-article"
+      }
+    ],
+    "verified_on": "2026-10-23"
+  },
+  {
+    "id": "EN06",
+    "title": "Corruption-based anomaly detection and interpretation in tabular data",
+    "authors": [
+      "Chunghyup Mok",
+      "Seoung Bum Kim"
+    ],
+    "journal": "Pattern Recognition",
+    "doi": "10.1016/j.patcog.2024.111149",
+    "url": "https://doi.org/10.1016/j.patcog.2024.111149",
+    "published": [
+      [
+        2025,
+        3
+      ]
+    ],
+    "published_print": [
+      [
+        2025,
+        3
+      ]
+    ],
+    "published_online": null,
+    "openalex_publication_date": "2024-11-09",
+    "volume": "159",
+    "issue": null,
+    "pages": "111149",
+    "article_number": "111149",
+    "abstract": "",
+    "abstract_source": "https://api.crossref.org/works/10.1016/j.patcog.2024.111149",
+    "metadata_sources": [
+      "https://api.crossref.org/works/10.1016/j.patcog.2024.111149",
+      "https://api.openalex.org/works/https://doi.org/10.1016/j.patcog.2024.111149"
+    ],
+    "open_access_url": "http://dx.doi.org/10.2139/ssrn.4921053",
+    "locations": [
+      {
+        "id": "doi:10.1016/j.patcog.2024.111149",
+        "doi": "https://doi.org/10.1016/j.patcog.2024.111149",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.patcog.2024.111149",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S414566",
+          "display_name": "Pattern Recognition",
+          "issn_l": "0031-3203",
+          "issn": [
+            "0031-3203",
+            "1873-5142"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "ccf-b",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-3",
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Pattern Recognition",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "doi:10.2139/ssrn.4921053",
+        "doi": "https://doi.org/10.2139/ssrn.4921053",
+        "is_oa": true,
+        "landing_page_url": "http://dx.doi.org/10.2139/ssrn.4921053",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210172589",
+          "display_name": "SSRN Electronic Journal",
+          "issn_l": "1556-5068",
+          "issn": [
+            "1556-5068"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1318003438",
+          "host_organization_name": "RELX Group (Netherlands)",
+          "host_organization_lineage": [
+            "https://openalex.org/I1318003438"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "posted-content"
+      }
+    ],
+    "verified_on": "2026-10-23"
+  },
+  {
+    "id": "EN07",
+    "title": "Data leakage detection in machine learning code: transfer learning, active learning, or low-shot prompting?",
+    "authors": [
+      "Nouf Alturayeif",
+      "Jameleddine Hassine"
+    ],
+    "journal": "PeerJ Computer Science",
+    "doi": "10.7717/peerj-cs.2730",
+    "url": "https://doi.org/10.7717/peerj-cs.2730",
+    "published": [
+      [
+        2025,
+        3,
+        5
+      ]
+    ],
+    "published_print": null,
+    "published_online": [
+      [
+        2025,
+        3,
+        5
+      ]
+    ],
+    "openalex_publication_date": "2025-03-05",
+    "volume": "11",
+    "issue": null,
+    "pages": "e2730",
+    "article_number": "e2730",
+    "abstract": "With the increasing reliance on machine learning (ML) across diverse disciplines, ML code has been subject to a number of issues that impact its quality, such as lack of documentation, algorithmic biases, overfitting, lack of reproducibility, inadequate data preprocessing, and potential for data leakage, all of which can significantly affect the performance and reliability of ML models. Data leakage can affect the quality of ML models where sensitive information from the test set inadvertently influences the training process, leading to inflated performance metrics that do not generalize well to new, unseen data. Data leakage can occur at either the dataset-level (i.e., during dataset construction) or at the code-level. Existing studies introduced methods to detect code-level data leakage using manual and code analysis approaches. However, automated tools with advanced ML techniques are increasingly recognized as essential for efficiently identifying quality issues in large and complex codebases, enhancing the overall effectiveness of code review processes. In this article, we aim to explore ML-based approaches for limited annotated datasets to detect code-level data leakage in ML code. We proposed three approaches, namely, transfer learning, active learning, and low-shot prompting. Additionally, we introduced an automated approached to handle the imbalance issues of code data. Our results show that active learning outperformed the other approaches with an F-2 score of 0.72 and reduced the number of needed annotated samples from 1,523 to 698. We conclude that existing ML-based approaches can effectively mitigate the challenges associated with limited data availability.",
+    "abstract_source": "https://api.crossref.org/works/10.7717/peerj-cs.2730",
+    "metadata_sources": [
+      "https://api.crossref.org/works/10.7717/peerj-cs.2730",
+      "https://api.openalex.org/works/https://doi.org/10.7717/peerj-cs.2730"
+    ],
+    "open_access_url": "https://peerj.com/articles/cs-2730.pdf",
+    "locations": [
+      {
+        "id": "doi:10.7717/peerj-cs.2730",
+        "doi": "https://doi.org/10.7717/peerj-cs.2730",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.7717/peerj-cs.2730",
+        "pdf_url": "https://peerj.com/articles/cs-2730.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210178049",
+          "display_name": "PeerJ Computer Science",
+          "issn_l": "2376-5992",
+          "issn": [
+            "2376-5992"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320104",
+          "host_organization_name": "PeerJ, Inc.",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320104"
+          ],
+          "host_organization_lineage_names": [
+            "PeerJ, Inc."
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PeerJ Computer Science",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmid:40134878",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40134878",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PeerJ. Computer science",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:11935776",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11935776",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "PeerJ Comput Sci",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:2287405671c84ce59f1d0727ecc8af3a",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/2287405671c84ce59f1d0727ecc8af3a",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "PeerJ Computer Science, Vol 11, p e2730 (2025)",
+        "raw_type": "article"
+      }
+    ],
+    "verified_on": "2026-10-23"
+  },
+  {
+    "id": "EN08",
+    "title": "Evaluating robustly standardized explainable anomaly detection of implausible variables in cancer data",
+    "authors": [
+      "Philipp Röchner",
+      "Franz Rothlauf"
+    ],
+    "journal": "Journal of the American Medical Informatics Association",
+    "doi": "10.1093/jamia/ocaf011",
+    "url": "https://doi.org/10.1093/jamia/ocaf011",
+    "published": [
+      [
+        2025,
+        1,
+        28
+      ]
+    ],
+    "published_print": [
+      [
+        2025,
+        4,
+        1
+      ]
+    ],
+    "published_online": [
+      [
+        2025,
+        1,
+        28
+      ]
+    ],
+    "openalex_publication_date": "2025-01-28",
+    "volume": "32",
+    "issue": "4",
+    "pages": "724-735",
+    "article_number": null,
+    "abstract": "Abstract\n               \n                  Objectives\n                  Explanations help to understand why anomaly detection algorithms identify data as anomalous. This study evaluates whether robustly standardized explanation scores correctly identify the implausible variables that make cancer data anomalous.\n               \n               \n                  Materials and Methods\n                  The dataset analyzed consists of 18 587 truncated real-world cancer registry records containing 8 categorical variables describing patients diagnosed with bladder and lung tumors. We identified 800 anomalous records using an autoencoder’s per-record reconstruction error, which is a common neural network-based anomaly detection approach. For each variable of a record, we determined a robust explanation score, which indicates how anomalous the variable is. A variable’s robust explanation score is the autoencoder’s per-variable reconstruction error measured by cross-entropy and robustly standardized across records; that is, large reconstruction errors have a small effect on standardization. To evaluate the explanation scores, medical coders identified the implausible variables of the anomalous records. We then compare the explanation scores to the medical coders’ validation in a classification and ranking setting. As baselines, we identified anomalous variables using the raw autoencoder’s per-variable reconstruction error, the non-robustly standardized per-variable reconstruction error, the empirical frequency of implausible variables according to the medical coders’ validation, and random selection or ranking of variables.\n               \n               \n                  Results\n                  When we sort the variables by their robust explanation scores, on average, the 2.37 highest-ranked variables contain all implausible variables. For the baselines, on average, the 2.84, 2.98, 3.27, and 4.91 highest-ranked variables contain all the variables that made a record implausible.\n               \n               \n                  Discussion\n                  We found that explanations based on robust explanation scores were better than or as good as the baseline explanations examined in the classification and ranking settings. Due to the international standardization of cancer data coding, we expect our results to generalize to other cancer types and registries. As we anticipate different magnitudes of per-variable autoencoder reconstruction errors in data from other medical registries and domains, these may also benefit from robustly standardizing the reconstruction errors per variable. Future work could explore methods to identify subsets of anomalous variables, addressing whether individual variables or their combinations contribute to anomalies. This direction aims to improve the interpretability and utility of anomaly detection systems.\n               \n               \n                  Conclusions\n                  Robust explanation scores can improve explanations for identifying implausible variables in cancer data.",
+    "abstract_source": "https://api.crossref.org/works/10.1093/jamia/ocaf011",
+    "metadata_sources": [
+      "https://api.crossref.org/works/10.1093/jamia/ocaf011",
+      "https://api.openalex.org/works/https://doi.org/10.1093/jamia/ocaf011"
+    ],
+    "open_access_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12005620/",
+    "locations": [
+      {
+        "id": "doi:10.1093/jamia/ocaf011",
+        "doi": "https://doi.org/10.1093/jamia/ocaf011",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1093/jamia/ocaf011",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S129839026",
+          "display_name": "Journal of the American Medical Informatics Association",
+          "issn_l": "1067-5027",
+          "issn": [
+            "1067-5027",
+            "1527-974X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "ccf-b",
+            "cwts-core",
+            "dongbi-b",
+            "doyens",
+            "jufo-2",
+            "ki-jl-2",
+            "medline",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648",
+            "https://openalex.org/P4310311647"
+          ],
+          "host_organization_lineage_names": [
+            "Oxford University Press",
+            "University of Oxford"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of the American Medical Informatics Association",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmid:39873664",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39873664",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of the American Medical Informatics Association : JAMIA",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:12005620",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12005620/",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "J Am Med Inform Assoc",
+        "raw_type": "Text"
+      }
+    ],
+    "verified_on": "2026-10-23"
+  },
+  {
+    "id": "EN09",
+    "title": "Group-weighted conformal prediction",
+    "authors": [
+      "Aabesh Bhattacharyya",
+      "Rina Foygel Barber"
+    ],
+    "journal": "Electronic Journal of Statistics",
+    "doi": "10.1214/26-ejs2506",
+    "url": "https://doi.org/10.1214/26-ejs2506",
+    "published": [
+      [
+        2026,
+        1,
+        1
+      ]
+    ],
+    "published_print": [
+      [
+        2026,
+        1,
+        1
+      ]
+    ],
+    "published_online": null,
+    "openalex_publication_date": "2026-01-01",
+    "volume": "20",
+    "issue": "1",
+    "pages": "1171-1199",
+    "article_number": null,
+    "abstract": "Conformal prediction (CP) is a method for constructing a prediction interval around the output of a fitted model, whose validity does not rely on the model being correct—the CP interval offers a coverage guarantee that is distribution-free, but relies on the training data being drawn from the same distribution as the test data. A recent variant, weighted conformal prediction (WCP), reweights the method to allow for covariate shift between the training and test distributions. However, WCP requires knowledge of the nature of the covariate shift—specifically, the likelihood ratio between the test and training covariate distributions. In practice, since this likelihood ratio is estimated rather than known exactly, the coverage guarantee may degrade due to the estimation error. In this paper, we consider a special scenario where observations belong to a finite number of groups, and these groups determine the covariate shift between the training and test distributions—for instance, this may arise if the training set is collected via stratified sampling. Our results demonstrate that in this special case, the predictive coverage guarantees of WCP can be drastically improved beyond the bounds given by existing estimation error bounds.",
+    "abstract_source": "https://api.crossref.org/works/10.1214/26-EJS2506",
+    "metadata_sources": [
+      "https://api.crossref.org/works/10.1214/26-EJS2506",
+      "https://api.openalex.org/works/https://doi.org/10.1214/26-EJS2506"
+    ],
+    "open_access_url": "https://doi.org/10.1214/26-ejs2506",
+    "locations": [
+      {
+        "id": "doi:10.1214/26-ejs2506",
+        "doi": "https://doi.org/10.1214/26-ejs2506",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1214/26-ejs2506",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S997959834",
+          "display_name": "Electronic Journal of Statistics",
+          "issn_l": "1935-7524",
+          "issn": [
+            "1935-7524"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "abdc-a",
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-b",
+            "jufo-2",
+            "ki-jl-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-2",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319881",
+          "host_organization_name": "Institute of Mathematical Statistics",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319881"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Mathematical Statistics"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Electronic Journal of Statistics",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:arXiv.org:2401.17452",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/2401.17452",
+        "pdf_url": "https://arxiv.org/pdf/2401.17452",
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      },
+      {
+        "id": "doi:10.48550/arxiv.2401.17452",
+        "doi": "https://doi.org/10.48550/arxiv.2401.17452",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.48550/arxiv.2401.17452",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": null,
+        "raw_source_name": null,
+        "raw_type": "Preprint"
+      }
+    ],
+    "verified_on": "2026-10-23"
+  },
+  {
+    "id": "EN10",
+    "title": "A Tutorial on Distribution-Free Uncertainty Quantification Using Conformal Prediction",
+    "authors": [
+      "Tim Kaiser",
+      "Philipp Herzog"
+    ],
+    "journal": "Advances in Methods and Practices in Psychological Science",
+    "doi": "10.1177/25152459251380452",
+    "url": "https://doi.org/10.1177/25152459251380452",
+    "published": [
+      [
+        2025,
+        10
+      ]
+    ],
+    "published_print": [
+      [
+        2025,
+        10
+      ]
+    ],
+    "published_online": [
+      [
+        2025,
+        11,
+        4
+      ]
+    ],
+    "openalex_publication_date": "2025-10-01",
+    "volume": "8",
+    "issue": "4",
+    "pages": null,
+    "article_number": "25152459251380452",
+    "abstract": "Statistical prediction models are ubiquitous in psychological research and practice. Increasingly, machine-learning models are used. Quantifying the uncertainty of such predictions is rarely considered, partly because prediction intervals are not defined for many of the algorithms used. However, generating and reporting prediction models without information on the uncertainty of the predictions carries the risk of overinterpreting their accuracy. Conventional methods for prediction intervals (e.g., those defined for ordinary least squares regression) are sensitive to violations of several distributional assumptions. In this tutorial, we introduce conformal prediction, a model-agnostic, distribution-free method for generating prediction intervals with guaranteed marginal coverage, to psychological research. We start by introducing the basic rationale of prediction intervals using a motivating example. Then, we proceed to conformal prediction, which is illustrated in three increasingly complex examples using publicly available data and R code.",
+    "abstract_source": "https://api.crossref.org/works/10.1177/25152459251380452",
+    "metadata_sources": [
+      "https://api.crossref.org/works/10.1177/25152459251380452",
+      "https://api.openalex.org/works/https://doi.org/10.1177/25152459251380452"
+    ],
+    "open_access_url": "https://doi.org/10.1177/25152459251380452",
+    "locations": [
+      {
+        "id": "doi:10.1177/25152459251380452",
+        "doi": "https://doi.org/10.1177/25152459251380452",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1177/25152459251380452",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210173062",
+          "display_name": "Advances in Methods and Practices in Psychological Science",
+          "issn_l": "2515-2459",
+          "issn": [
+            "2515-2459",
+            "2515-2467"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-b",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [
+            "SAGE Publishing"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Advances in Methods and Practices in Psychological Science",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:0b38cf9e1f4c4902a3550cf9fd9d46ac",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/0b38cf9e1f4c4902a3550cf9fd9d46ac",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Advances in Methods and Practices in Psychological Science, Vol 8 (2025)",
+        "raw_type": "article"
+      }
+    ],
+    "verified_on": "2026-10-23"
+  },
+  {
+    "id": "EN11",
+    "title": "Conformal Loss-Controlling Prediction",
+    "authors": [
+      "Di Wang",
+      "Ping Wang",
+      "Zhong Ji",
+      "Xiaojun Yang",
+      "Hongyue Li"
+    ],
+    "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+    "doi": "10.1109/tnnls.2024.3356512",
+    "url": "https://doi.org/10.1109/tnnls.2024.3356512",
+    "published": [
+      [
+        2025,
+        2
+      ]
+    ],
+    "published_print": [
+      [
+        2025,
+        2
+      ]
+    ],
+    "published_online": null,
+    "openalex_publication_date": "2024-01-30",
+    "volume": "36",
+    "issue": "2",
+    "pages": "2973-2983",
+    "article_number": null,
+    "abstract": "Conformal prediction (CP) is a learning framework controlling prediction coverage of prediction sets, which can be built on any learning algorithm for point prediction. This work proposes a learning framework named conformal loss-controlling prediction, which extends CP to the situation where the value of a loss function needs to be controlled. Different from existing works about risk-controlling prediction sets and conformal risk control with the purpose of controlling the expected values of loss functions, the proposed approach in this article focuses on the loss for any test object, which is an extension of CP from miscoverage loss to some general loss. The controlling guarantee is proved under the assumption of exchangeability of data in finite-sample cases and the framework is tested empirically for classification with a class-varying loss and statistical postprocessing of numerical weather forecasting applications, which are introduced as point-wise classification and point-wise regression problems. All theoretical analysis and experimental results confirm the effectiveness of our loss-controlling approach.",
+    "abstract_source": "https://api.openalex.org/works/https://doi.org/10.1109/TNNLS.2024.3356512",
+    "metadata_sources": [
+      "https://api.crossref.org/works/10.1109/TNNLS.2024.3356512",
+      "https://api.openalex.org/works/https://doi.org/10.1109/TNNLS.2024.3356512"
+    ],
+    "open_access_url": "https://arxiv.org/pdf/2301.02424",
+    "locations": [
+      {
+        "id": "doi:10.1109/tnnls.2024.3356512",
+        "doi": "https://doi.org/10.1109/tnnls.2024.3356512",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/tnnls.2024.3356512",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210175523",
+          "display_name": "IEEE Transactions on Neural Networks and Learning Systems",
+          "issn_l": "2162-237X",
+          "issn": [
+            "2162-237X",
+            "2162-2388"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "ccf-b",
+            "cwts-core",
+            "dongbi-a",
+            "doyens",
+            "jufo-3",
+            "medline",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Transactions on Neural Networks and Learning Systems",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmid:38289839",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38289839",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE transactions on neural networks and learning systems",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "pmh:oai:arXiv.org:2301.02424",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/2301.02424",
+        "pdf_url": "https://arxiv.org/pdf/2301.02424",
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      },
+      {
+        "id": "doi:10.48550/arxiv.2301.02424",
+        "doi": "https://doi.org/10.48550/arxiv.2301.02424",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.48550/arxiv.2301.02424",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": null,
+        "raw_source_name": null,
+        "raw_type": "Preprint"
+      }
+    ],
+    "verified_on": "2026-10-23"
+  }
+]
