@@ -74,6 +74,20 @@ week1/
 - [文献引用台账](week1/literature/literature_review_ledger.md)
 - [BibTeX](week1/literature/references.bib)
 
+第二周原型已加入：
+
+- [Streamlit可视化页面](week2/app.py)
+- [异常初筛管线](week2/src/anomaly_detection.py)
+- [异常筛查报告](week2/reports/anomaly_screening_report.md)
+- [外部挂牌价格辅助核验记录](week2/reports/external_validation_protocol.md)
+
+启动页面：
+
+```powershell
+.\.venv\Scripts\python.exe -m pip install -r week2\requirements-dashboard.txt
+.\.venv\Scripts\python.exe -m streamlit run week2\app.py
+```
+
 ## 研究边界
 
 - 目标为挂牌价，不是真实成交价或车辆价值；区间越界仅提示人工复核。

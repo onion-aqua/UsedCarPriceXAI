@@ -1,0 +1,48 @@
+{
+  "purpose": "screening suspected anomalous listing prices for human review",
+  "data_rows": 119662,
+  "scored_test_rows": 17950,
+  "training_reference_rows": 71797,
+  "min_peer_count": 8,
+  "peer_relative_threshold": 0.35,
+  "review_sample_counts": {
+    "top_high": 50,
+    "top_low": 50,
+    "random_normal": 30
+  },
+  "screening_counts": {
+    "区间内/暂不初筛": 9752,
+    "疑似异常高价_人工复核": 4094,
+    "疑似异常低价_人工复核": 3871,
+    "方向冲突_人工复核": 233
+  },
+  "model_interval_counts": {
+    "high": 836,
+    "low": 956
+  },
+  "peer_flag_counts": {
+    "high": 3845,
+    "low": 3505
+  },
+  "peer_reference_levels": {
+    "city_brand_year": 8602,
+    "city_brand": 6667,
+    "city_model_year": 1558,
+    "brand_model": 429,
+    "brand_model_year": 376,
+    "none": 318
+  },
+  "score_quantiles": {
+    "0.5": 0.26854241964308445,
+    "0.9": 0.8875959463642442,
+    "0.95": 1.4569387598485621,
+    "0.99": 3.682412742396186,
+    "1": 21.23837209302326
+  },
+  "limits": [
+    "No abnormality ground truth is available. screening_label is a queue label, not a confirmed abnormality or fraud label.",
+    "Peer prices are calculated from the training partition only; test prices are not used to create their peer reference.",
+    "Current external listing prices may not be comparable to the source snapshot and should be recorded separately with query dates.",
+    "The price model and interval were trained in week1; this script does not retrain or tune the model."
+  ]
+}
